@@ -12,7 +12,7 @@ export default function ProcessingUnit() {
           <OrdersList />
           <NewOrderForm />
         </div>
-        <div className="lg:col-span-1 lg:row-span-2">
+        <div className="lg:col-span-1 lg:row-span-2 translate-y-11">
           <UserInformation />
         </div>
       </div>

@@ -14,7 +14,7 @@ export default function NewOrderForm() {
   })
 
   return (
-    <section className="bg-gray-50 rounded-lg p-6 border-2">
+    <section className="bg-gray-50 p-6 border-2 rounded-3xl">
       <h2 className="text-xl font-semibold mb-6 text-gray-800">PLACE A NEW ORDER</h2>
       <form className="space-y-6">
         <div className="space-y-4">
