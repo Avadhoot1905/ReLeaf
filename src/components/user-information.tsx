@@ -24,7 +24,7 @@ export default function UserInformation() {
   }
 
   return (
-    <Card className="p-6 h-full border bg-gray-50">
+    <Card className="p-6 h-full border bg-gray-50 rounded-3xl">
       <h2 className="text-xl font-semibold mb-6 text-gray-800">YOUR INFORMATION</h2>
       <div className="space-y-6">
         <section className="space-y-4">
